@@ -4,4 +4,5 @@ model uses CNN, openCV and computer vision to predict age and gender of a pictur
 
 **task:**
 - this model needs a caffemodel data architecture to understand the openCV code and process
+- insert a photo with a face and let the model predict your gender and age
 
